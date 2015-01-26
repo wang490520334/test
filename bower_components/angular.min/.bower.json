@@ -1,0 +1,12 @@
+{
+  "name": "angular.min",
+  "_cacheHeaders": {
+    "Last-Modified": "Fri, 28 Mar 2014 14:15:09 GMT",
+    "Content-Type": "application/javascript"
+  },
+  "main": "index.js",
+  "_source": "http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.10/angular.min.js",
+  "_target": "*",
+  "_originalSource": "http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.10/angular.min.js",
+  "_direct": true
+}
